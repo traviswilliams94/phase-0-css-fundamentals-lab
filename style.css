@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+nav {
+  text-align: center;
+  background-color: lightgray;
+}
+
+nav a {
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
+
+figcaption {
+  text-align: center;
+  font-size: smaller;
+}
+
+section#featured-property p {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+section#details div {
+  float: left;
+  text-align: center;
+  background-color: lightcoral;
+  width: 25%;
+}
